@@ -6,7 +6,7 @@ This repository contains code for create a machine learning model that can predi
 * train_data.txt: Training dataset containing movie IDs, titles, genres, and plots.
 * test_data.txt: Test dataset containing movie IDs, titles, and plots.
 #### Dependencies
-Python 3.x
-pandas
-scikit-learn
+* Python 3.x
+* pandas
+* scikit-learn
 
